@@ -1,4 +1,4 @@
-# blog-a
+# blog-b
 
 _Fully customizable blog template with a React.js front-end._
 
